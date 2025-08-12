@@ -1,14 +1,15 @@
 
-button{
+.black-white,
+.yellow-black {
     font-size: 28px;
     font-family: "Helvetica", "Times New Roman", sans-serif;
 }
 
-#fst{
+.black-white{
     background-color: black;
     color: white;
 }
 
-#snd{
+.yellow-black{
     background-color: yellow;
 }
